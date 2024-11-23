@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": "717e",
+      "name": "Nurul Islam",
+      "role": "Role3",
+      "status": "Active"
+    },
+    {
+      "id": "52d3",
+      "name": "Faishal",
+      "role": "Role3",
+      "status": "Active"
+    },
+    {
+      "id": "6025",
+      "name": "Fulchand",
+      "role": "Role1",
+      "status": "Active"
+    },
+    {
+      "id": "2298",
+      "name": "Nehnu",
+      "role": "Role3",
+      "status": "Active"
+    },
+    {
+      "id": "1b3a",
+      "name": "New User",
+      "role": "Role3",
+      "status": "Active"
+    }
+  ],
+  "roles": [
+    {
+      "id": "c6d1",
+      "rolename": "Role1",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ]
+    },
+    {
+      "id": "b319",
+      "rolename": "Role2",
+      "permissions": [
+        "Write",
+        "Read"
+      ]
+    },
+    {
+      "id": "8e5b",
+      "rolename": "Role3",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "4d17",
+      "rolename": "Role4",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "699c",
+      "rolename": "Role5",
+      "permissions": [
+        "Execute"
+      ]
+    },
+    {
+      "id": "0707",
+      "rolename": "Role6",
+      "permissions": [
+        "Delete"
+      ]
+    }
+  ]
+}
